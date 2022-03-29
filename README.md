@@ -8,3 +8,8 @@ for Machine Learning project
 * edu_data
 * heart_disease
 * league_of_legends
+
+
+## NLP
+* fake_news
+* fake_job_posting
